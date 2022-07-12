@@ -1,0 +1,8 @@
+C:\Users\mSital\source\repos\GestionStock\GestionStock\bin\Debug\GestionStock.exe.config
+C:\Users\mSital\source\repos\GestionStock\GestionStock\bin\Debug\GestionStock.exe
+C:\Users\mSital\source\repos\GestionStock\GestionStock\bin\Debug\GestionStock.pdb
+C:\Users\mSital\source\repos\GestionStock\GestionStock\obj\Debug\GestionStock.csproj.AssemblyReference.cache
+C:\Users\mSital\source\repos\GestionStock\GestionStock\obj\Debug\GestionStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\mSital\source\repos\GestionStock\GestionStock\obj\Debug\GestionStock.csproj.CoreCompileInputs.cache
+C:\Users\mSital\source\repos\GestionStock\GestionStock\obj\Debug\GestionStock.exe
+C:\Users\mSital\source\repos\GestionStock\GestionStock\obj\Debug\GestionStock.pdb
